@@ -4,6 +4,6 @@
 
 class C: public A{
     public:
-    void goo();
+    virtual void goo();
 };
 #endif
