@@ -4,7 +4,7 @@ class A{
     public:
     virtual void foo();
     void goo();
-    ~A();
+    virtual ~A();
 
 };
 
