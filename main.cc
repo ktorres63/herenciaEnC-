@@ -6,7 +6,7 @@ int main(int argc, char *argv[]) {
     A *a = new E();
     a->goo();
 
-    /*
+  /*
     A a;
     a.foo();
 
@@ -19,5 +19,5 @@ int main(int argc, char *argv[]) {
 
     delete pa;
     return 0;
-    */
+  */
 }
