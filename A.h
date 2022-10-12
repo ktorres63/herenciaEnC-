@@ -2,8 +2,9 @@
 #define A_H
 class A{
     public:
-    void foo();
+    virtual void foo();
     void goo();
+    ~A();
 
 };
 

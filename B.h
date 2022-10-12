@@ -3,5 +3,6 @@
 class B: public A{
 public:
     void foo();
+    ~B();
 
 };
