@@ -2,6 +2,11 @@
 
 #include "A.h"
 #include "B.h"
+#include "C.h"
+#include "D.h"
+#include "E.h"
+
+
 int main(int argc, char *argv[]) {
     A *a = new E();
     a->goo();
