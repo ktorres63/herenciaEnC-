@@ -9,8 +9,8 @@
 
 int main(int argc, char *argv[]) {
 
-    A *a = new C();
-    a->foo();
+    A *a = new D();
+    a->goo();
   /*
     A a;
     a.foo();
