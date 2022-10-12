@@ -8,9 +8,9 @@
 
 
 int main(int argc, char *argv[]) {
-    A *a = new E();
-    a->goo();
 
+    E e;
+    e.goo();
   /*
     A a;
     a.foo();
