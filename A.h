@@ -3,8 +3,8 @@
 class A{
     public:
     virtual void foo();
-    void goo();
-    virtual ~A();
+    //void goo();
+    //virtual ~A();
 
 };
 

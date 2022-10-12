@@ -2,7 +2,7 @@
 
 class B: public A{
 public:
-    void foo();
-    ~B();
+    virtual void foo();
+//    ~B();
 
 };
